@@ -4,6 +4,10 @@ Este repositório contêm o script responsável por gerar a clusterização de b
 
 Para visualizar os dados gerado na pasta `out` utilize um software GIS (SIG), como o QGIS.
 
+Acesse o resultado do processamento na versão web [aqui](https://bairros.ariel.dev.br).
+
+Repositório da versão web [aqui](https://github.com/arielfavaro/bairros-porto-ferreira).
+
 ## Execução do script
 ```sh
 # Criar env
